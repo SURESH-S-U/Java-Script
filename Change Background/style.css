@@ -1,0 +1,29 @@
+#header
+{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+}
+#color_name
+{
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wrapper
+{
+    height: 500px;
+    position: relative;
+}
+#myBtn
+{
+    position: absolute; 
+    top: 200px;
+    left: 300px;
+    height: 40px;
+    width: 170px;
+    font-size: 20px;
+    border-radius: 10%;
+    border: none;
+    background-color: yellow
+    ;
+}
